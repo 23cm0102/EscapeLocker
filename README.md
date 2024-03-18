@@ -13,4 +13,5 @@
 
 ## 遊び方
 
+<img width="373" alt="image" src="https://github.com/23cm0102/EscapeLocker/assets/153046430/c4480a0f-69fe-4aba-a170-ad288832a7c2">
 
